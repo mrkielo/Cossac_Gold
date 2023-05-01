@@ -18,5 +18,6 @@ public class TaxiCredits : MonoBehaviour
 		{
 			transform.position = start.position;
 		}
+		if (Input.anyKeyDown) Application.Quit();
 	}
 }
