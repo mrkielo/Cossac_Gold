@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 10b04720fff7556439ded9cd32adede6
+  - enabled: 1
+    path: Assets/Scenes/Intro_Museum.unity
+    guid: e173bfc0f05084b468451f3ba3b34579
+  - enabled: 1
+    path: Assets/Scenes/LoadingS/LoadingScene1.unity
+    guid: b63acbca1cc5c9c49977e267efd4b7ae
+  - enabled: 1
+    path: Assets/Scenes/SafeHouse1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LoadingS/LoadingScene 2.unity
+    guid: 75aa5f44da2fab048b00233a26089969
+  - enabled: 1
+    path: Assets/Scenes/Fortress_Entrnace.unity
+    guid: e8227bfd111e50f4980bcd8111983048
+  - enabled: 1
+    path: Assets/Scenes/Fortress_Stealth_Tutorial.unity
+    guid: 367e3684a3fa4964b88d11cb93dbdb08
+  - enabled: 1
+    path: Assets/Scenes/Fortress_Stealth2.unity
+    guid: 45d3f9191b5cae345bac9e20d1209080
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 51e3eef5a99ca65449c77ebe718b17c5
+  m_configObjects: {}
